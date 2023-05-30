@@ -9,3 +9,6 @@ Missing maps:
 
 Bugs:
 - might have troubles with event maps (Mirny, Waffentrager event, etc)
+
+Disclaimer:
+- all map images are a property of Wargaming.net and are used for informational purposes only
